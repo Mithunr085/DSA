@@ -9,7 +9,7 @@
   <li>Butterfly</li>
 </ol>
 <h3>Day-2</h3>
-<h5>Number System Conversion between binary and decimal formats</h5>
+<h5>Number System Conversion between binary and decimal formats for understanding the mathematical operations</h5>
 <ol>
   <li>Binary to Decimal</li>
   <li>Decimal to Binary</li>
