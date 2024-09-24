@@ -1,4 +1,4 @@
-# DSA
+# DSA For Placements
 
 <h3>Day-1</h3>
 <h5>Patterns for Logic Building</h5>
