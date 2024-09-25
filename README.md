@@ -44,6 +44,12 @@
     <td>--</td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td>Search An Element in an Array</td>
+    <td>NA</td>
+    <td>Linear Search</td>
+    <td>Easy</td>
+  </tr>
 </table>
 
 
