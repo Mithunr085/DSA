@@ -52,6 +52,24 @@
   </tr>
 </table>
 
+<h3>Day-5</h3>
+<h5>Searching and Sorting Algorithms</h5>
+
+<ol>
+ <li> <h6>Searching Algorithms : </h6> </li>
+  <ul>
+     <li>Linear Search</li>
+     <li>Binary Search</li>
+  </ul>
+  <li> <h6>Sorting Algorithms : </h6> </li>
+  <ul>
+     <li>Bubble Sort</li>
+     <li>Insertion Sort</li>
+     <li>Selection Sort</li>
+  </ul> 
+</ol>
+
+
 
 
 
