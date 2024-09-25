@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td>Search An Element in an Array</td>
-    <td>NA</td>
+    <td><a href="https://www.geeksforgeeks.org/linear-search/">GFG</a></td>
     <td>Linear Search</td>
     <td>Easy</td>
   </tr>
