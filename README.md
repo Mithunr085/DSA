@@ -56,12 +56,12 @@
 <h5>Searching and Sorting Algorithms</h5>
 
 <ol>
- <li> <h6><span>Searching Algorithms : </span></h6> </li>
+ <li> <h6><b>Searching Algorithms : </b></h6> </li>
   <ul>
      <li>Linear Search</li>
      <li>Binary Search</li>
   </ul>
-  <li> <h6><span>Sorting Algorithms :</span> </h6> </li>
+  <li> <h6><b>Sorting Algorithms :</b> </h6> </li>
   <ul>
      <li>Bubble Sort</li>
      <li>Insertion Sort</li>
