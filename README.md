@@ -16,7 +16,7 @@
 </ol>
 
 <h3>Day-3</h3>
-<h5>Basic Programs</h5>
+<h5>Basic Programs asked in most interviews</h5>
 <ol>
   <li>Pallindrome</li>
   <li>Prime</li>
