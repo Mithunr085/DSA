@@ -30,12 +30,12 @@
 </ol>
 
 <h3>Day-4</h3>
-<h4>Arrays</h4>
+<h4>Arrays : </h4>
 <table>
   <tr>
     <th>Problem Name</th>
     <th>Problem Link</th>
-    <th>Algorithm|Technique</th>
+    <th>Algorithm | Technique</th>
     <th>Difficulty</th>
   </tr>
   <tr>
