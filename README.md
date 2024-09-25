@@ -29,3 +29,23 @@
   <li>Armstrong Number</li>
 </ol>
 
+<h3>Day-4</h3>
+<h5>Arrays</h5>
+<table>
+  <tr>
+    <th>Problem Name</th>
+    <th>Problem Link</th>
+    <th>Algorithm|Technique</th>
+    <th>Difficulty</th>
+  </tr>
+  <tr>
+    <td>Smallest And Largest Element</td>
+    <td>NA</td>
+    <td>--</td>
+    <td>Easy</td>
+  </tr>
+</table>
+
+
+
+
