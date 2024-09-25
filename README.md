@@ -1,5 +1,5 @@
 # DSA For Placements
-
+<h2>Solutions For Below Problems are Updated in DSA Repository </h2>
 <h3>Day-1</h3>
 <h5>Patterns for Logic Building</h5>
 <ol>
