@@ -30,7 +30,7 @@
 </ol>
 
 <h3>Day-4</h3>
-<h5>Arrays</h5>
+<h4>Arrays</h4>
 <table>
   <tr>
     <th>Problem Name</th>
