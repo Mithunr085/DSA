@@ -18,8 +18,34 @@
 <h3>Day-3</h3>
 <h5>Basic Programs asked in most interviews</h5>
 <ol>
+  <li>Sum of first N Natural Numbers</li>
+  <li>Sum of Digits in a Number</li>
+  <li>Reverse a Number</li>
   <li>Pallindrome</li>
   <li>Prime</li>
-  <li>Fibanocci</li>
+  <li>Factorial</li>
+  <li>Fibanocci</li>  
+  <li>Perfect Number</li>
+  <li>Armstrong Number</li>
 </ol>
+
+<h3>Day-4</h3>
+<h4>Arrays : </h4>
+<table>
+  <tr>
+    <th>Problem Name</th>
+    <th>Problem Link</th>
+    <th>Algorithm | Technique</th>
+    <th>Difficulty</th>
+  </tr>
+  <tr>
+    <td>Smallest And Largest Element</td>
+    <td>NA</td>
+    <td>--</td>
+    <td>Easy</td>
+  </tr>
+</table>
+
+
+
 
