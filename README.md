@@ -1,5 +1,5 @@
 # DSA For Placements
-
+<h2>Solutions For Below Problems are Updated in DSA Repository </h2>
 <h3>Day-1</h3>
 <h5>Patterns for Logic Building</h5>
 <ol>
@@ -44,7 +44,31 @@
     <td>--</td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td>Search An Element in an Array</td>
+    <td><a href="https://www.geeksforgeeks.org/linear-search/">GFG</a></td>
+    <td>Linear Search</td>
+    <td>Easy</td>
+  </tr>
 </table>
+
+<h3>Day-5</h3>
+<h5>Searching and Sorting Algorithms</h5>
+
+<ol>
+ <li> <h6><b>Searching Algorithms : </b></h6> </li>
+  <ul>
+     <li>Linear Search</li>
+     <li>Binary Search</li>
+  </ul>
+  <li> <h6><b>Sorting Algorithms :</b> </h6> </li>
+  <ul>
+     <li>Bubble Sort</li>
+     <li>Insertion Sort</li>
+     <li>Selection Sort</li>
+  </ul> 
+</ol>
+
 
 
 
