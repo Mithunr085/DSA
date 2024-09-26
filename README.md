@@ -12,7 +12,7 @@
 <h5>Number System Conversion between binary and decimal formats for understanding the mathematical operations</h5>
 <ol>
   <li><a href="https://github.com/Mithunr085/DSA/blob/main/NumberSystem/BinaryToDec.cpp">Binary to Decimal</a></li>
-  <li>Decimal to Binary</li>
+  <li><a href="https://github.com/Mithunr085/DSA/blob/main/NumberSystem/DecToBinary.cpp">Decimal to Binary</a></li>
 </ol>
 
 <h3>Day-3</h3>
