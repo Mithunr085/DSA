@@ -51,6 +51,12 @@
     <td>Linear Search</td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td>Sort an Array Using Bubble Sort</td>
+    <td><a href="https://www.geeksforgeeks.org/bubble-sort-algorithm/">GFG</a></td>
+    <td>Bubble Sort</td>
+    <td>Easy</td>
+  </tr>
 </table>
 
 <h3>Day-5</h3>
