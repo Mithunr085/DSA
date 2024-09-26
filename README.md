@@ -4,9 +4,9 @@
 <h5>Patterns for Logic Building</h5>
 <ol>
   <li><a href="https://github.com/Mithunr085/DSA/tree/main/patterns">Pattern 1 to 3</a></li>
-  <li>Pyramid</li>
-  <li>Diamond</li>
-  <li>Butterfly</li>
+  <li><a href="https://github.com/Mithunr085/DSA/blob/main/patterns/Pyramid.cpp">Pyramid</a></li>
+  <li><a href="https://github.com/Mithunr085/DSA/blob/main/patterns/Diamond.cpp">Diamond</a></li>
+  <li><a href="https://github.com/Mithunr085/DSA/blob/main/patterns/Butterfly.cpp">Butterfly</a></li>
 </ol>
 <h3>Day-2</h3>
 <h5>Number System Conversion between binary and decimal formats for understanding the mathematical operations</h5>
