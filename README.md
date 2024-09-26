@@ -18,6 +18,7 @@
 <h3>Day-3</h3>
 <h5>Basic Programs asked in most interviews</h5>
 <ol>
+  <li>Swap two Numbers with & without using extra Variable</li>
   <li>Sum of first N Natural Numbers</li>
   <li>Sum of Digits in a Number</li>
   <li>Reverse a Number</li>
