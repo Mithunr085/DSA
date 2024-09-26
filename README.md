@@ -11,7 +11,7 @@
 <h3>Day-2</h3>
 <h5>Number System Conversion between binary and decimal formats for understanding the mathematical operations</h5>
 <ol>
-  <li>Binary to Decimal</li>
+  <li><a href="https://github.com/Mithunr085/DSA/blob/main/NumberSystem/BinaryToDec.cpp">Binary to Decimal</a></li>
   <li>Decimal to Binary</li>
 </ol>
 
