@@ -71,7 +71,7 @@
   <li> <h6><b>Sorting Algorithms :</b> </h6> </li>
   <ul>
      <li><a href="https://github.com/Mithunr085/DSA/blob/main/SortingAlgorithms/BubbleSort.cpp">Bubble Sort</a></li>
-     <li>Insertion Sort</li>
+     <li><a href ="https://github.com/Mithunr085/DSA/blob/main/SortingAlgorithms/InsertionSort.cpp">Insertion Sort</a></li>
      <li>Selection Sort</li>
   </ul> 
 </ol>
