@@ -66,7 +66,7 @@
  <li> <h6><b>Searching Algorithms : </b></h6> </li>
   <ul>
      <li><a href="https://github.com/Mithunr085/DSA/blob/main/SearchingAlgorithms/LinearSearch.cpp">Linear Search</a></li>
-     <li>Binary Search</li>
+     <li><a href="https://github.com/Mithunr085/DSA/blob/main/SearchingAlgorithms/BinarySearch.cpp">Binary Search</a></li>
   </ul>
   <li> <h6><b>Sorting Algorithms :</b> </h6> </li>
   <ul>
