@@ -30,7 +30,7 @@
   <li><a href="https://github.com/Mithunr085/DSA/blob/main/BasicPrograms/ArmstrongNumber.cpp">Armstrong Number</a></li>
 </ol>
 
-<h3>Day-4</h3>
+<h3>Day-4 and 5</h3>
 <h4>Arrays : </h4>
 <table>
   <tr>
@@ -59,14 +59,14 @@
   </tr>
 </table>
 
-<h3>Day-5</h3>
+<h3>Day-6</h3>
 <h5>Searching and Sorting Algorithms</h5>
 
 <ol>
  <li> <h6><b>Searching Algorithms : </b></h6> </li>
   <ul>
      <li><a href="https://github.com/Mithunr085/DSA/blob/main/SearchingAlgorithms/LinearSearch.cpp">Linear Search</a></li>
-     <li>Binary Search</li>
+     <li><a href="https://github.com/Mithunr085/DSA/blob/main/SearchingAlgorithms/BinarySearch.cpp">Binary Search</a></li>
   </ul>
   <li> <h6><b>Sorting Algorithms :</b> </h6> </li>
   <ul>
