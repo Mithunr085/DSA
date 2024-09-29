@@ -72,7 +72,7 @@
   <ul>
      <li><a href="https://github.com/Mithunr085/DSA/blob/main/SortingAlgorithms/BubbleSort.cpp">Bubble Sort</a></li>
      <li><a href ="https://github.com/Mithunr085/DSA/blob/main/SortingAlgorithms/InsertionSort.cpp">Insertion Sort</a></li>
-     <li>Selection Sort</li>
+     <li><a href="https://github.com/Mithunr085/DSA/blob/main/SortingAlgorithms/SelectionSort.cpp">Selection Sort</a></li>
   </ul> 
 </ol>
 
