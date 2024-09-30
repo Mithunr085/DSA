@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void repeatedElem(int a[], int n) // to print
+void repeatedElem(int a[], int n) // to print the repeated elements in the array
 {
     for (int i = 0; i < n; i++)
     {
