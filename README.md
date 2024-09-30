@@ -57,6 +57,12 @@
     <td>Bubble Sort</td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/repeatedElements.cpp">Repeated Elements In Array</a></td>
+    <td>NA</td>
+    <td>--</td>
+    <td>Easy</td>
+  </tr>
 </table>
 
 <h3>Day-6</h3>
