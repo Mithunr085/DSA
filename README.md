@@ -84,7 +84,8 @@
 </ol>
 
  <hr>
-  <h3>🚀Keep coding, stay determined, and ace your placements!✨</h3>
+ <h2><i>🚀 Keep coding, stay determined, and ace your placements! ✨</i></h2>
+  
 
 
 
