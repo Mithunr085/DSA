@@ -35,10 +35,10 @@
 <h4>📊Arrays : </h4>
 <table>
   <tr>
-    <th>Problem Name With My Code Link</th>
-    <th>Problem Reference Link</th>
-    <th>Algorithm | Technique</th>
-    <th>Difficulty</th>
+    <th>🚀Problem Name With My Code Link</th>
+    <th>🌐Problem Reference Link</th>
+    <th>⚙️Algorithm | Technique</th>
+    <th>🟢Difficulty</th>
   </tr>
   <tr>
     <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/smallestAndLargestElement.cpp">Smallest And Largest Element</a></td>
