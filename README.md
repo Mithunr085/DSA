@@ -17,7 +17,7 @@
 
 <h3>📅Day-3</h3>
 <h5>💻Basic Programs asked in most interviews</h5>
- <p>Get ready with these <strong>must-know programs</strong> often asked in interviews:</p>
+ <p>🎯Get ready with these <strong>must-know programs</strong> often asked in interviews:</p>
 <ol>
   <li><a href ="https://github.com/Mithunr085/DSA/blob/main/BasicPrograms/Swap2Numbers.cpp">Swap two Numbers with & without using extra Variable</a></li>
   <li><a href="https://github.com/Mithunr085/DSA/blob/main/BasicPrograms/SumofFirstnNumbers.cpp">Sum of first N Natural Numbers</a></li>
