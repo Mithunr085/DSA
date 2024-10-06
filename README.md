@@ -67,7 +67,7 @@
   <tr>
     <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/cumulativeSum.cpp">Cumulative Sum</a></td>
     <td>NA</td>
-    <td>--</td>
+    <td>Vectors</td>
     <td>Easy</td>
   </tr>
 </table>
