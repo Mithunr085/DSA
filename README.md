@@ -31,7 +31,7 @@
   <li><a href="https://github.com/Mithunr085/DSA/blob/main/BasicPrograms/ArmstrongNumber.cpp">Armstrong Number</a></li>
 </ol>
 
-<h3>📅Day-4 and 5</h3>
+<h3>📅Day-4,5,6</h3>
 <h4>📊Arrays : </h4>
 <table>
   <caption><h5>Easy : </h5></caption>
@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-<h3>📅Day-6</h3>
+<h3>📅Day-7</h3>
 <h5>🎨Searching and Sorting Algorithms</h5>
 
 <ol>
