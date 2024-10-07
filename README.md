@@ -65,6 +65,16 @@
     <td>NA</td>
     <td>Vectors</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/rotateArray.cpp">Rotate Array</a></td>
+    <td>NA</td>
+    <td>Vectors</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/SortAndRotate.cpp">Check if Array is sorted and rotated</a></td>
+    <td><a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/">LeetCode</a></td>
+    <td>Vectors</td>
+  </tr>
 </table>
 
 <h3>📅Day-7</h3>
