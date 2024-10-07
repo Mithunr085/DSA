@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/rotateArray.cpp">Rotate Array</a></td>
-    <td>NA</td>
+    <td><a href="https://www.naukri.com/code360/problems/rotate-array_1230543"> <img src="https://cdn-icons-png.flaticon.com/512/2620/2620269.png" alt="Book Logo" width="30" height="30"></a></td>
     <td>Vectors</td>
   </tr>
   <tr>
