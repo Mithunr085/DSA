@@ -31,42 +31,43 @@
   <li><a href="https://github.com/Mithunr085/DSA/blob/main/BasicPrograms/ArmstrongNumber.cpp">Armstrong Number</a></li>
 </ol>
 
-<h3>📅Day-4 and 5</h3>
+<h3>📅Day-4,5,6</h3>
 <h4>📊Arrays : </h4>
 <table>
+  <caption><h5>Easy : </h5></caption>
   <tr>
     <th>🚀Problem Name With My Code Link</th>
     <th>🌐Problem Reference Link</th>
     <th>⚙️Algorithm | Technique</th>
-    <th>🟢Difficulty</th>
   </tr>
   <tr>
     <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/smallestAndLargestElement.cpp">Smallest And Largest Element</a></td>
     <td>NA</td>
     <td>--</td>
-    <td>Easy</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/LinearSearch.cpp">Search An Element in an Array</a></td>
     <td><a href="https://www.geeksforgeeks.org/linear-search/">GFG</a></td>
     <td>Linear Search</td>
-    <td>Easy</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/BubbleSort.cpp">Sort an Array Using Bubble Sort</a></td>
     <td><a href="https://www.geeksforgeeks.org/bubble-sort-algorithm/">GFG</a></td>
     <td>Bubble Sort</td>
-    <td>Easy</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/repeatedElements.cpp">Repeated Elements In Array</a></td>
     <td>NA</td>
     <td>--</td>
-    <td>Easy</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/cumulativeSum.cpp">Cumulative Sum</a></td>
+    <td>NA</td>
+    <td>Vectors</td>
   </tr>
 </table>
 
-<h3>📅Day-6</h3>
+<h3>📅Day-7</h3>
 <h5>🎨Searching and Sorting Algorithms</h5>
 
 <ol>
