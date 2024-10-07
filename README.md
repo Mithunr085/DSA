@@ -47,12 +47,12 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/LinearSearch.cpp">Search An Element in an Array</a></td>
-    <td><a href="https://www.geeksforgeeks.org/linear-search/">GFG</a></td>
+    <td><a href="https://www.geeksforgeeks.org/linear-search/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" height="30"></a></td>
     <td>Linear Search</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/BubbleSort.cpp">Sort an Array Using Bubble Sort</a></td>
-    <td><a href="https://www.geeksforgeeks.org/bubble-sort-algorithm/">GFG</a></td>
+    <td><a href="https://www.geeksforgeeks.org/bubble-sort-algorithm/"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" height="30"></a></td>
     <td>Bubble Sort</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/SortAndRotate.cpp">Check if Array is sorted and rotated</a></td>
-    <td><a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/">Leetcode</a></td>
+    <td><a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"></a></td>
     <td>Vectors</td>
   </tr>
 </table>
