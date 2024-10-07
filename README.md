@@ -34,7 +34,7 @@
 <h3>📅Day-4 and 5</h3>
 <h4>📊Arrays : </h4>
 <table>
-  <caption>EASY : </caption>
+  <caption><h5>Easy : </h5></caption>
   <tr>
     <th>🚀Problem Name With My Code Link</th>
     <th>🌐Problem Reference Link</th>
