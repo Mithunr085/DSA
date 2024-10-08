@@ -75,6 +75,11 @@
     <td align="center"><a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"></a></td>
     <td>Vectors</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/merge2SortedArrays.cpp">Merge two Sorted Arrays</a></td>
+    <td align="center"><a href="https://leetcode.com/problems/merge-sorted-array/description/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"></a></td>
+    <td>Vectors</td>
+  </tr>
 </table>
 
 <h3>📅Day-7</h3>
