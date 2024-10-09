@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/LinearSearch.cpp">Search An Element in an Array</a></td>
-    <td align="center"><a href="https://www.geeksforgeeks.org/linear-search/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" height="30" target="_blank"></a></td>
+    <td align="center"><a href="https://www.geeksforgeeks.org/linear-search/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" height="30" ></a></td>
     <td>Linear Search</td>
   </tr>
   <tr>
