@@ -3,20 +3,20 @@ using namespace std;
 
 void moveZeroes(vector<int> &nums)
 {
-    vector<int> temp(nums.size());
+    vector<int> temp(nums.size());// for computaion temp vector
     int j = 0;
     for (int i = 0; i < nums.size(); i++)
     {
-        if (nums[i] != 0)
+        if (nums[i] != 0)// storing only non zero numbers
         {
             temp[j++] = nums[i];
         }
     }
-    while (temp.size() != nums.size())
+    while (temp.size() != nums.size())// later adding the zeroes at end by looking at array size
     {
         temp[j++] = 0;
     }
-    nums = temp;
+    nums = temp;// assigning the temp to nums
 }
 
 int main()
