@@ -100,10 +100,16 @@
     <th>🌐Problem Reference Link</th>
     <th>⚙️Algorithm | Technique</th>
   </tr>
+ 
   <tr>
     <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/MaximumSubArraySum.cpp">Maximum SubArray Sum</a></td>
     <td align="center"><a href="https://leetcode.com/problems/maximum-subarray/description/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"></a></td>
     <td>Kadane's Algorithm</td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/Mithunr085/DSA/blob/main/Arrays(Vectors).cpp/MajorElement.cpp">Majority Element</a></td>
+    <td align="center"><a href="https://leetcode.com/problems/majority-element/description/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"></a></td>
+    <td>Moore's Voting Algorithm</td>
   </tr>
 </table>
 
